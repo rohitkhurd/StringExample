@@ -10,8 +10,8 @@ public class ReturnString {
 	public static void main(String[] args) {
 		
 		ReturnString returnString = new ReturnString();
-		returnString.getString("Rohit");
-		System.out.println("Returned Succesfully");
+		returnString.getString("Rahul");
+		//System.out.println("Returned Succesfully");
 	}
 
 }
